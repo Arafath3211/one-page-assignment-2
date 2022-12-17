@@ -1,0 +1,229 @@
+body{
+    margin: 0px;
+
+}
+#top-section{
+    background-image: url(/Img/pexels-markus-spiske-330771.jpg)
+    ;
+    background-size: cover ;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.65);
+
+text-align: center;
+color: white;
+margin: -35px;
+
+}
+.head-1{
+    font-size: 30px;
+    padding-top: 40px;
+    font-family: 'Martian Mono', monospace;
+}
+#pera-1{
+    
+}
+
+
+#blue{
+    border: 0px solid;
+    border-radius: 5px;
+    padding: 10px 24px;
+    background-color: blue;
+
+    font-size: 20px;
+    
+}
+
+#none{border: 1px solid white;
+background: none;
+padding: 10px 15px;
+font-size: 20px;
+
+margin-top: 5px;
+margin-bottom: 70px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+#search{
+    text-align: center;
+    background-color: antiquewhite;
+    margin: -20px;
+}
+.search-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0px solid gray;
+    background-color:white;
+    padding: 80px 40px;
+    margin: 40px 100px;
+  
+}
+#area {
+    border: 1px solid black;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    font-size: 15px;
+    padding: 12px 0px;
+    padding-left: 15px;
+    padding-right: 80px}
+    #sub-btn1 {
+        border: 1px solid black;
+        background-color: grey;
+        border-left: none;
+        color: black;
+        
+        padding: 14px 30px;
+    margin-left: -5px;}
+    #sub-btn2 {
+        border: 1px solid black;
+        background-color: blue;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+        
+        padding: 14px 30px;
+    margin-left: -5px;}
+    #price{
+        color:blue ;}
+        #domain{
+            padding-top: 30px;
+            font-family: 'Martian Mono', monospace;
+
+        }
+
+        .service{
+            text-align: center;
+            padding-top: 30px;
+        }
+        #servie-pera{
+            padding-bottom: 20px;
+        }
+        #section-1{
+            display: flex;
+            padding-top: 20px;
+        }
+        #section-2{display: flex;}
+        .div-1{
+            border: 1px solid grey;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin: 20px;
+            text-align: left;
+            box-shadow: 3px 3px 3px 3px grey;
+        }
+
+
+
+        .dollar{
+            font-size: 20px;
+
+        }
+        .month{
+            font-size: 12px;
+        }
+        #pricing-plan{display: flex;}
+        
+        .usd{padding-left: 20px;;
+        }
+        .price{border: 1px solid grey;
+        margin: 0px 30px;}
+        #section-5{
+            display: flex;
+        }
+        #share-heading {
+            text-align: center;
+        }
+        
+        #share-heading p {
+            padding-left: 220px;
+            padding-right: 220px;
+        }
+        #division {
+            display: flex;
+            margin: 20px 100px;
+        }
+        #share {
+            margin-left: 0px;
+        }
+        .devion-three {
+            width: 33.5%;
+            background-color: #dadce7;
+            margin-left: 20px;
+            padding: 40px;
+        }
+        table tr, td {
+            padding: 10px;
+        }
+        .btn-order {
+            background-color: #828ed1;
+            padding: 10px 20px;
+            border-radius: 20px;
+            border: none;
+        }
+        #section-5{
+            display: flex;
+            height: 300px
+        }
+        .wev{
+            height: 160px;
+            padding-left:20px ;
+        }
+        
+        
+        .half-width{width: 50%;
+        padding-left: 5px;}
+        .half-width img{
+            width: 50%;
+              
+            
+        }
+        .wev{
+            border: 0.5px solid grey;
+            
+        }
+        #section-6{
+            display: flex;
+            height: 300px;
+            
+            padding-top: 20px;
+           
+        }
+        .wev{
+            height: 160px;
+            padding-left:20px ;
+        }
+        
+        
+        .half-width{width: 50%;
+        padding-left: 5px;}
+        .half-width img{
+            width: 60%;
+              
+            
+        }
+        .wev{
+            border: 0.5px solid grey;
+            
+        }
+       #section-7{
+        text-align: center;
+        padding-top: 30px;
+       }
+       #sec-7{
+        display: flex;
+       }
+       
+         #share-heading{
+            padding-top: 30px;
+            background-color: ;
+         }
+       footer {
+        text-align: center;
+        padding: 30px 0 30px 0;
+        color: white;
+        background-color: #0254db;
+    }
+
+
